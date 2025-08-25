@@ -17,7 +17,7 @@
 #define P_GEN_6_POKEMON                  TRUE // Generation 6 Pokémon (XY, ORAS)
 #define P_GEN_7_POKEMON                  TRUE // Generation 7 Pokémon (SM, USUM, LGPE)
 #define P_GEN_8_POKEMON                  TRUE // Generation 8 Pokémon (SwSh, BDSP, LA)
-#define P_GEN_9_POKEMON                  TRUE // Generation 9 Pokémon (SV)
+#define P_GEN_9_POKEMON                  FALSE // Generation 9 Pokémon (SV)
 
 // Setting this to TRUE will add the new evolutions to the Regional Dex.
 #define P_NEW_EVOS_IN_REGIONAL_DEX       TRUE
@@ -27,10 +27,10 @@
 #define P_PRIMAL_REVERSIONS              TRUE // Groudon and Kyogre only.
 #define P_ULTRA_BURST_FORMS              TRUE // Ultra Necrozma only.
 #define P_GIGANTAMAX_FORMS               TRUE
-#define P_TERA_FORMS                     TRUE
+#define P_TERA_FORMS                     FALSE
 
 // Fusion forms
-#define P_FUSION_FORMS                   TRUE
+#define P_FUSION_FORMS                   FALSE
 
 // Regional Forms. Includes Regional Form evolutions, like Sirfetch'd.
 #define P_REGIONAL_FORMS                 TRUE
